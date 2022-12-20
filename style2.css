@@ -1,0 +1,41 @@
+body {
+    background: url("https://kartinkin.net/uploads/posts/2021-07/1627408186_14-kartinkin-com-p-pikselnie-teksturi-zemli-krasivo-17.png");
+    max-width:390px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.crot{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 100px;
+}
+
+.bomb{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 100px;
+}
+
+p {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    color: #FFFFFF;
+}
+
+.bomb2{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 100px;
+}
+.hero{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 70px;
+    display: none;
+    }
